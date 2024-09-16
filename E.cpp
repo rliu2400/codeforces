@@ -64,7 +64,7 @@ vi readInts(int N) {vi arr(N); for0 (i, N) cin >> arr[i]; return arr;}
 vll readLLs(int N) {vll arr(N); for0 (i, N) cin >> arr[i]; return arr;}
 
 // SOLUTION
-void meow(){
+void meow() {
     /* /ᐠ｡ꞈ｡ᐟ\ */;
     
 
